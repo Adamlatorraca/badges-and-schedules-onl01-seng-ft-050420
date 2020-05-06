@@ -1,5 +1,7 @@
 # Write your code here.
-def badge_maker(name = Arel)
+def badge_maker(name)
   return "Hello, my name is #{name}"
 
 end
+
+badge_maker(Arel)
